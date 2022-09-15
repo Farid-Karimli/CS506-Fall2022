@@ -1,3 +1,13 @@
 def draw_tree():
-    print("tree not found")
-    return
+    print('''
+       _-_
+    /~~   ~~\\
+ /~~         ~~\\
+{               }
+ \  _-     -_  /
+   ~  \\\ //  ~
+_- -   | | _- _
+  _ -  | |   -_
+      // \\
+        ''')
+    return   
